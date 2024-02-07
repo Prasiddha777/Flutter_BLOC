@@ -25,7 +25,7 @@ class _EquitableScreenState extends State<EquitableScreen> {
 
           //--//
           print(personOne == personTwo);
-          print(personOne == personOne);
+          // print(personOne == personOne);
         },
       ),
     );
